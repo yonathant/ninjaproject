@@ -9530,13 +9530,13 @@ p.nominalBounds = new cjs.Rectangle(-349.5,132.7,693.2,120.2);
 		}
 		
 		function loadSounds() { //טעינת קבצי הסאונד
-			createjs.Sound.registerSound("/sounds/openingmp3.mp3", "openingmp3");
-			createjs.Sound.registerSound("/sounds/mainSoundmp3.mp3", "mainSound");
-			createjs.Sound.registerSound("/sounds/swordWrongmp3.mp3", "swordWrong");
-			createjs.Sound.registerSound("/sounds/starsmp3.mp3", "starsmp3");
-			createjs.Sound.registerSound("/sounds/progressSoundmp3.mp3", "progressSound");
-			createjs.Sound.registerSound("/sounds/scream1mp3.mp3", "scream1");
-			createjs.Sound.registerSound("/sounds/cuttingmp3.mp3", "cuttingmp3");
+			createjs.Sound.registerSound("sounds/openingmp3.mp3", "openingmp3");
+			createjs.Sound.registerSound("sounds/mainSoundmp3.mp3", "mainSound");
+			createjs.Sound.registerSound("sounds/swordWrongmp3.mp3", "swordWrong");
+			createjs.Sound.registerSound("sounds/starsmp3.mp3", "starsmp3");
+			createjs.Sound.registerSound("sounds/progressSoundmp3.mp3", "progressSound");
+			createjs.Sound.registerSound("sounds/scream1mp3.mp3", "scream1");
+			createjs.Sound.registerSound("sounds/cuttingmp3.mp3", "cuttingmp3");
 		}
 		
 		stage.alpha = 0;
