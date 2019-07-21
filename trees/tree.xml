@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games>
+  <idCounter>3</idCounter>
+  <game gid="1" gameCode="1" publish="True" quesTime="20" quesNum="10">
+    <gameName>היסטוריה</gameName>
+    <question id="1" text="משה שרת היה שר החוץ הראשון של מדינת ישראל. באיזה תפקיד חשוב נוסף הוא כיהן?" photo="18_07_19-13_42_01.png">
+      <answer id="1" correct="y" type="text">ראש ממשלה</answer>
+      <answer id="2" correct="n" type="text">נשיא</answer>
+    </question>
+    <question id="2" text="מתי חל יום הולדתה של כנסת ישראל?" photo="18_07_19-13_44_59.png">
+      <answer id="1" correct="y" type="text">ט"ו בשבט</answer>
+      <answer id="2" correct="n" type="text">פורים</answer>
+      <answer id="3" correct="n" type="text">פסח</answer>
+      <answer id="4" correct="n" type="text">א' תשרי</answer>
+    </question>
+    <question id="3" text="מי כתב את ההמנון הלאומי התקווה?" photo="18_07_19-13_45_08.png">
+      <answer id="1" correct="y" type="text">נפתלי הרץ אמבר</answer>
+      <answer id="2" correct="n" type="text">נעמי שמר</answer>
+      <answer id="3" correct="n" type="text">דוד בן גוריון</answer>
+      <answer id="4" correct="n" type="text">אהוד מנור</answer>
+    </question>
+    <question id="4" text="בממשלה הראשונה כיהנה גולדה מאיר כ:" photo="18_07_19-13_45_16.png">
+      <answer id="1" correct="y" type="text">שרת העבודה</answer>
+      <answer id="2" correct="n" type="text">שרת הבריאות</answer>
+      <answer id="3" correct="n" type="text">לא כיהנה בממשלה הראשונה</answer>
+      <answer id="4" correct="n" type="text">שרת החוץ</answer>
+    </question>
+    <question id="5" text="באיזה שנה נערכה מלחמת ששת הימים?" photo="noImage">
+      <answer id="1" correct="y" type="text">1967</answer>
+      <answer id="2" correct="n" type="text">1973</answer>
+      <answer id="3" correct="n" type="text">1981</answer>
+    </question>
+    <question id="6" text="באיזה שנה הוחלפה הלירה בשקל?" photo="noImage">
+      <answer id="1" correct="y" type="text">1980</answer>
+      <answer id="2" correct="n" type="text">1967</answer>
+      <answer id="3" correct="n" type="text">1948</answer>
+      <answer id="4" correct="n" type="text">1992</answer>
+    </question>
+    <question id="7" text="באיזה שנה נרצח ראש הממשלה יצחק רבין?" photo="noImage">
+      <answer id="1" correct="y" type="text">1995</answer>
+      <answer id="2" correct="n" type="text">1960</answer>
+      <answer id="3" correct="n" type="text">1977</answer>
+    </question>
+    <question id="8" text="מהו סמלה של מדינת ישראל?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-13_55_161.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-13_52_062.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-13_52_063.png</answer>
+      <answer id="4" correct="n" type="photo">18_07_19-13_55_164.png</answer>
+    </question>
+    <question id="9" text="מי מהבאים לא כיהן כנשיא?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-13_53_191.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-13_53_192.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-13_53_193.png</answer>
+      <answer id="4" correct="n" type="photo">18_07_19-13_53_194.png</answer>
+    </question>
+    <question id="10" text="באיזו עיר הכריז דוד בן גוריון על הקמת מדינת ישראל?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-13_54_031.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-13_54_032.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-13_54_033.png</answer>
+      <answer id="4" correct="n" type="photo">18_07_19-13_54_034.png</answer>
+    </question>
+  </game>
+  <game gid="2" gameCode="2" publish="True" quesTime="20" quesNum="10">
+    <gameName>אנגלית</gameName>
+    <question id="1" text="בחר בפירוש המתאים לתמונה" photo="18_07_19-13_56_40.png">
+      <answer id="1" correct="y" type="text"> Angry</answer>
+      <answer id="2" correct="n" type="text">Happy</answer>
+      <answer id="3" correct="n" type="text">Furstrated</answer>
+      <answer id="4" correct="n" type="text">sad</answer>
+    </question>
+    <question id="2" text="בחר בפירוש המתאים לתמונה" photo="18_07_19-13_56_53.png">
+      <answer id="1" correct="y" type="text">Mouse</answer>
+      <answer id="2" correct="n" type="text">Dog</answer>
+      <answer id="3" correct="n" type="text">Cat</answer>
+      <answer id="4" correct="n" type="text">House</answer>
+    </question>
+    <question id="3" text="בחר בפירוש המתאים לתמונה" photo="18_07_19-14_00_40.png">
+      <answer id="1" correct="y" type="text">Twelve</answer>
+      <answer id="2" correct="n" type="text">Ten</answer>
+      <answer id="3" correct="n" type="text">Two</answer>
+      <answer id="4" correct="n" type="text">Fourteen</answer>
+    </question>
+    <question id="4" text="בחר בפירוש המתאים למילה -Grandmother" photo="noImage">
+      <answer id="1" correct="y" type="text">סבתא</answer>
+      <answer id="2" correct="n" type="text">סבא</answer>
+      <answer id="3" correct="n" type="text"> דוד</answer>
+      <answer id="4" correct="n" type="text">דודה</answer>
+    </question>
+    <question id="5" text="בחר בפירוש המתאים למילה -כיסא" photo="noImage">
+      <answer id="1" correct="y" type="text">Bed</answer>
+      <answer id="2" correct="n" type="text">Chair</answer>
+      <answer id="3" correct="n" type="text"> Table</answer>
+      <answer id="4" correct="n" type="text">House</answer>
+    </question>
+    <question id="6" text="בחר בפירוש המתאים לתמונה" photo="18_07_19-14_01_25.png">
+      <answer id="1" correct="y" type="text">Purple</answer>
+      <answer id="2" correct="n" type="text">Blue</answer>
+      <answer id="3" correct="n" type="text">Green</answer>
+      <answer id="4" correct="n" type="text">Red</answer>
+    </question>
+    <question id="7" text="בחר את הפירוש המתאים למילה - עט" photo="noImage">
+      <answer id="1" correct="y" type="text">Pen</answer>
+      <answer id="2" correct="n" type="text">Pencil</answer>
+      <answer id="3" correct="n" type="text">Bag</answer>
+      <answer id="4" correct="n" type="text">Diary</answer>
+    </question>
+    <question id="8" text="מה פירוש המילה Pizza?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-14_01_511.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-14_01_512.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-14_01_513.png</answer>
+      <answer id="4" correct="n" type="photo">18_07_19-14_01_514.png</answer>
+    </question>
+    <question id="9" text="מה פירוש המילה Swim?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-14_02_531.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-14_02_532.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-14_02_533.png</answer>
+      <answer id="4" correct="n" type="photo">18_07_19-14_02_534.png</answer>
+    </question>
+    <question id="10" text="מה פירוש המילה Ear?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-14_03_141.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-14_03_142.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-14_03_143.png</answer>
+      <answer id="4" correct="n" type="photo">18_07_19-14_03_144.png</answer>
+    </question>
+  </game>
+  <game gid="3" gameCode="2" publish="True" quesTime="20" quesNum="10">
+    <gameName>חשבון</gameName>
+    <question id="1" text="מהי התוצאה לתרגיל: 15-11?" photo="noImage">
+      <answer id="1" correct="y" type="text">4</answer>
+      <answer id="2" correct="n" type="text">10</answer>
+      <answer id="3" correct="n" type="text">8</answer>
+      <answer id="4" correct="n" type="text">3</answer>
+    </question>
+    <question id="2" text="מהי התוצאה לתרגיל: 2+9+1?" photo="noImage">
+      <answer id="1" correct="y" type="text">12</answer>
+      <answer id="2" correct="n" type="text">11</answer>
+      <answer id="3" correct="n" type="text">10</answer>
+      <answer id="4" correct="n" type="text">9</answer>
+    </question>
+    <question id="3" text="מהי התוצאה לתרגיל: 12-4-2?" photo="noImage">
+      <answer id="1" correct="y" type="text">6</answer>
+      <answer id="2" correct="n" type="text">8</answer>
+      <answer id="3" correct="n" type="text">10</answer>
+      <answer id="4" correct="n" type="text">2</answer>
+    </question>
+    <question id="4" text="מהי התוצאה לתרגיל 2X2?" photo="noImage">
+      <answer id="1" correct="y" type="text">4</answer>
+      <answer id="2" correct="n" type="text">6</answer>
+      <answer id="3" correct="n" type="text">8</answer>
+      <answer id="4" correct="n" type="text">10</answer>
+    </question>
+    <question id="5" text="מהי התוצאה לתרגיל 2X6?" photo="noImage">
+      <answer id="1" correct="y" type="text">12</answer>
+      <answer id="2" correct="n" type="text">6</answer>
+      <answer id="3" correct="n" type="text">8</answer>
+      <answer id="4" correct="n" type="text">20</answer>
+    </question>
+    <question id="6" text="מהי התוצאה לתרגיל 4x4 ?" photo="noImage">
+      <answer id="1" correct="y" type="text">16</answer>
+      <answer id="2" correct="n" type="text">6</answer>
+      <answer id="3" correct="n" type="text">22</answer>
+      <answer id="4" correct="n" type="text">24</answer>
+    </question>
+    <question id="7" text="מהי התוצאה לתרגיל 20/5 ?" photo="noImage">
+      <answer id="1" correct="y" type="text">4</answer>
+      <answer id="2" correct="n" type="text">6</answer>
+      <answer id="3" correct="n" type="text">8</answer>
+      <answer id="4" correct="n" type="text">10</answer>
+    </question>
+    <question id="8" text="מהי התוצאה לתרגיל 2X2-3?" photo="noImage">
+      <answer id="1" correct="y" type="text">1</answer>
+      <answer id="2" correct="n" type="text">3</answer>
+      <answer id="3" correct="n" type="text">2</answer>
+      <answer id="4" correct="n" type="text">0</answer>
+    </question>
+    <question id="9" text="מהי התוצאה לתרגיל 21-16?" photo="noImage">
+      <answer id="1" correct="y" type="text">5</answer>
+      <answer id="2" correct="n" type="text">9</answer>
+      <answer id="3" correct="n" type="text">2</answer>
+      <answer id="4" correct="n" type="text">1</answer>
+    </question>
+    <question id="10" text="מהי התוצאה לתרגיל 3X3?" photo="noImage">
+      <answer id="1" correct="y" type="text">9</answer>
+      <answer id="2" correct="n" type="text">6</answer>
+      <answer id="3" correct="n" type="text">12</answer>
+      <answer id="4" correct="n" type="text">18</answer>
+    </question>
+  </game>
+  <game gid="4" gameCode="4" publish="true" quesTime="20" quesNum="10">
+    <gameName>TEST</gameName>
+    <question id="1" text="משה שרת היה שר החוץ הראשון של מדינת ישראל. באיזה תפקיד חשוב נוסף הוא כיהן?" photo="18_07_19-13_42_01.png">
+      <answer id="1" correct="y" type="text">ראש ממשלה</answer>
+      <answer id="2" correct="n" type="text">נשיא</answer>
+    </question>
+    <question id="2" text="מתי חל יום הולדתה של כנסת ישראל?" photo="18_07_19-13_44_59.png">
+      <answer id="1" correct="y" type="text">ט"ו בשבט</answer>
+      <answer id="2" correct="n" type="text">פורים</answer>
+      <answer id="3" correct="n" type="text">פסח</answer>
+    </question>
+    <question id="3" text="מי כתב את ההמנון הלאומי התקווה?" photo="18_07_19-13_45_08.png">
+      <answer id="1" correct="y" type="text">נפתלי הרץ אמבר</answer>
+      <answer id="2" correct="n" type="text">נעמי שמר</answer>
+      <answer id="3" correct="n" type="text">דוד בן גוריון</answer>
+      <answer id="4" correct="n" type="text">אהוד מנור</answer>
+    </question>
+    <question id="4" text="בממשלה הראשונה כיהנה גולדה מאיר כ:" photo="18_07_19-13_45_16.png">
+      <answer id="1" correct="y" type="text">שרת העבודה</answer>
+      <answer id="2" correct="n" type="text">שרת הבריאות</answer>
+    </question>
+    <question id="5" text="באיזה שנה נערכה מלחמת ששת הימים?" photo="noImage">
+      <answer id="1" correct="y" type="text">1967</answer>
+      <answer id="2" correct="n" type="text">1973</answer>
+      <answer id="3" correct="n" type="text">1981</answer>
+    </question>
+    <question id="6" text="באיזה שנה הוחלפה הלירה בשקל?" photo="noImage">
+      <answer id="1" correct="y" type="text">1980</answer>
+      <answer id="2" correct="n" type="text">1967</answer>
+      <answer id="3" correct="n" type="text">1948</answer>
+      <answer id="4" correct="n" type="text">1992</answer>
+    </question>
+    <question id="7" text="באיזה שנה נרצח ראש הממשלה יצחק רבין?" photo="noImage">
+      <answer id="1" correct="y" type="text">1995</answer>
+      <answer id="2" correct="n" type="text">1960</answer>
+    </question>
+    <question id="8" text="מהו סמלה של מדינת ישראל?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-13_55_161.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-13_52_062.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-13_52_063.png</answer>
+    </question>
+    <question id="9" text="מי מהבאים לא כיהן כנשיא?" photo="noImage">
+      <answer id="1" correct="y" type="photo">18_07_19-13_53_191.png</answer>
+      <answer id="2" correct="n" type="photo">18_07_19-13_53_192.png</answer>
+      <answer id="3" correct="n" type="photo">18_07_19-13_53_193.png</answer>
+      <answer id="4" correct="n" type="photo">18_07_19-13_53_194.png</answer>
+    </question>
+    <question id="10" text="kugjf" photo="noImage">
+      <answer id="1" correct="y" type="text">hgfhgd</answer>
+      <answer id="2" correct="n" type="text">gfch</answer>
+    </question>
+  </game>
+</games>
